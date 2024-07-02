@@ -216,8 +216,9 @@
     "desp": "One Piece",
     "info": "Es el capitán de la tripulación pirata conocida como los Piratas de Sombrero de Paja, fundada por él mismo para cumplir su sueño de encontrar el One Piece. Es originario del East Blue. Su recompensa es de 3.000.000.000. Forma parte de los llamados La Peor Generación; piratas cuya infamia es bien conocida por el mundo. Tras los eventos en el País de Wano, se le consideró uno de Los Cuatro Emperadores, los cuatro piratas más peligrosos a ojos del mundo",
     "class": "Épico",
+    "type": "Anime",
     "price": 1800,
-    "type": "anime de piratas",
+    "code": "!6ylp9"
   },
   {
       "index": 21,
@@ -286,7 +287,7 @@
       "code": "kb+ts6"
   },
   {
-    "index": 30,
+    "index": 27,
     "url": "https://telegra.ph/file/75dda3736c12370c62846.jpg",
     "name": "Polo Benavent",
     "desp": "Élite",
